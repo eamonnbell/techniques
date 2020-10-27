@@ -1,3 +1,9 @@
+---
+description: >-
+  This is a work-in-progress textbook based on teaching materials used in a
+  course delivered at Columbia University in Fall 2018 by Eamonn Bell
+---
+
 # Techniques and Tools: Practicum Notebooks
 
 ## Preflight info
